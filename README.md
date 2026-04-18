@@ -5,18 +5,20 @@
 - [News](#1-news)
 - [Dataset](#2-dataset)
 - [Checkpoints](#3-checkpoints)
+- [Acknowledgement](#3-Acknowledgement)
 - [Citation](#4-citation)
 
 ## 1. News
 
-Next steps: release the checkpoints for all 20 baseline models.
-April 18, 2026: WUTDet Part A dataset released on Google Drive and Baidu Netdisk.
+- Next steps: release the checkpoints for all 20 baseline models.
+- April 18, 2026: WUTDet Part A dataset released on Google Drive and Baidu Netdisk.
 
 ## 2. Dataset
 
 ### 2.1 Download
 
 - [Google Drive](https://drive.google.com/file/d/1b_vMl6OQZVyPNWUHyV07cShBVkGjPGcp/view?usp=sharing)
+
 - [Baidu Netdisk](https://pan.baidu.com/s/1_VLl3v9YVHD1Ht_wXGl3zA?pwd=MAPG) Code: `MAPG`
 
 ### 2.2 Details
@@ -27,7 +29,11 @@ To be released soon.
 
 To be released soon.
 
-## 4. Citation
+## 4. Acknowledgement
+
+- We would like to express our sincere gratitude to [Zhejiang Xinnuorui Marine Technology Co., Ltd.](http://www.xnuorui.com/) and [multifunctional maritime service vessel Furui 688](#) for their valuable support of this work.
+
+## 5. Citation
 
 ```
 @article{liang2026wutdet,
@@ -37,5 +43,3 @@ To be released soon.
   year={2026}
 }
 ```
-
-
