@@ -17,9 +17,9 @@
 
 ### 2.1 Download
 
-- [Google Drive](https://drive.google.com/file/d/1b_vMl6OQZVyPNWUHyV07cShBVkGjPGcp/view?usp=sharing)
+- [Google Drive](https://drive.google.com/file/d/1HvQcqx_NH_20yZ4eX8DXWTlQZlHhNSBK/view?usp=sharing)
 
-- [Baidu Netdisk](https://pan.baidu.com/s/1_VLl3v9YVHD1Ht_wXGl3zA?pwd=MAPG) Code: `MAPG`
+- [Baidu Netdisk](https://pan.baidu.com/s/1Ml5qmU78w1eDGsAbSgKdTw?pwd=MAPG) Code: `MAPG`
 
 ### 2.2 Details
 
