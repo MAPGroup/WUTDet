@@ -11,7 +11,7 @@
 ## 1. News
 
 - Next steps: release the checkpoints for all 20 baseline models.
-- April 18, 2026: WUTDet Part A dataset released on Google Drive and Baidu Netdisk.
+- April 18, 2026: WUTDet Part A dataset released on Google Drive and Baidu Netdisk. More datasets will be released upon acceptance of the paper.
 
 ## 2. Dataset
 
