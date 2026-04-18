@@ -31,7 +31,7 @@ To be released soon.
 
 ## 4. Acknowledgement
 
-- We would like to express our sincere gratitude to [Zhejiang Xinnuorui Marine Technology Co., Ltd.](http://www.xnuorui.com/) and [multifunctional maritime service vessel Furui 688](#) for their valuable support of this work.
+- We would like to express our sincere gratitude to [Zhejiang Xinnuorui Marine Technology Co., Ltd.](http://www.xnuorui.com/) and the [multifunctional maritime service vessel Furui 688](#) for their valuable support of this work.
 
 ## 5. Citation
 
