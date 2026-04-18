@@ -1,1 +1,41 @@
-WUTDet: A 100K-Scale Ship Detection Dataset and Benchmarks with Dense Small Objects
+# WUTDet: A 100K-Scale Ship Detection Dataset and Benchmarks with Dense Small Objects
+
+## Overview
+
+- [News](#1-news)
+- [Dataset](#2-dataset)
+- [Checkpoints](#3-checkpoints)
+- [Citation](#4-citation)
+
+## 1. News
+
+Next steps: release the checkpoints for all 20 baseline models.
+April 18, 2026: WUTDet Part A dataset released on Google Drive and Baidu Netdisk.
+
+## 2. Dataset
+
+### 2.1 Download
+
+- [Google Drive](https://drive.google.com/file/d/1b_vMl6OQZVyPNWUHyV07cShBVkGjPGcp/view?usp=sharing)
+- [Baidu Netdisk](https://pan.baidu.com/s/1_VLl3v9YVHD1Ht_wXGl3zA?pwd=MAPG) Code: `MAPG`
+
+### 2.2 Details
+
+To be released soon.
+
+## 3. Checkpoints
+
+To be released soon.
+
+## 4. Citation
+
+```
+@article{liang2026wutdet,
+  title={WUTDet: A 100K-Scale Ship Detection Dataset and Benchmarks with Dense Small Objects},
+  author={Liang, Junxiong and Bao, Mengwei and Wang, Tianxiang and Wang, Xinggang and Liu, An-An and Liu, Ryan Wen},
+  journal={arXiv preprint arXiv:2604.07759},
+  year={2026}
+}
+```
+
+
