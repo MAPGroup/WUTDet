@@ -1,4 +1,4 @@
-# WUTDet: A 100K-Scale Ship Detection Dataset and Benchmarks with Dense Small Objects
+# [WUTDet: A 100K-Scale Ship Detection Dataset and Benchmarks with Dense Small Objects](https://arxiv.org/pdf/2604.07759)
 
 ## Overview
 
